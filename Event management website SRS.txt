@@ -1,0 +1,18 @@
+EVENT MANAGEMENT WEBSITE
+
+INTRODUCTION
+In event management website there will be somany variety of options and it is very useful in day to day life and for event makers also it is easy to check the designs
+and all facilities will be available in the website only and it will be very useful
+
+PURPOSE
+The purpose of event management website is to make the events easily and there will be event details related to which event they are making
+
+FUNCTIONAL REQUIREMENTS
+- To make a successfull event the event management website is very imortant and it is very useful
+- Because event management website the people will get more ideas to make the event
+- The event management website there will more option for event designs
+
+NON FUNCTIONAL REQUIREMENTS
+- The events will be more
+- the more events and the cost will be also higher
+- Because of event management website the offline buisness will be less
